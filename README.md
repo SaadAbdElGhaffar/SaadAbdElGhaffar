@@ -10,7 +10,12 @@
 </p>
 
 
- <p>I'm a Senior Full-Stack Engineer with over <b>extensive experience</b> specializing in cutting-edge <b>web development</b>, <b>AI</b> and <b>blockchain</b> solutions. <br>My expertise lies in crafting high-quality, responsive, and scalable web applications with a focus on brilliant <b>UX/UI</b>  and seamless <b>cloud computing</b>  integration. <br>Let's bring your project to life with innovative solutions and technologies!</p><b
+<p>
+I'm a <b>Computer Vision and Machine Learning Engineer</b> with strong expertise in developing and deploying intelligent image-processing and AI-driven systems. 
+<br>I specialize in building high-performance solutions for <b>object detection</b>, <b>image segmentation</b>, and <b>visual analytics</b> using <b>Python</b>, <b>PyTorch</b>, and <b>OpenCV</b>. 
+<br>My passion lies in applying deep learning to solve real-world challenges, delivering <b>accurate</b>, <b>scalable</b>, and <b>impactful</b> computer vision applications.
+</p>
+
 
 
 
