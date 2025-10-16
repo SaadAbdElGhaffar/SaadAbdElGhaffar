@@ -3,22 +3,29 @@
   <img src="https://komarev.com/ghpvc/?username=SaadAbdElGhaffar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Top Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<!-- Waving Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-<!-- Floating GIFs + Centered Typing Animation -->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=A020F0&lines=Extensive+Experience...;Certified+in+over+50+Skills...;Built+over+30+Projects..." />
+<!-- Animated GIFs -->
+<p>
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  I'm a Senior Full-Stack Engineer with <b>extensive experience</b> specializing in cutting-edge <b>web development</b>, <b>AI</b>, and <b>blockchain</b> solutions. <br>
-  My expertise lies in crafting high-quality, responsive, and scalable web applications with a focus on brilliant <b>UX/UI</b> and seamless <b>cloud computing</b> integration. <br>
-  Let's bring your project to life with innovative solutions and technologies!
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=7B68EE&lines=Extensive+Experience...;Certified+in+over+50+Skills...;Built+over+30+Projects..." />
 </p>
+
+<!-- Intro Paragraph -->
+<p align="center">
+  I'm a <b>Senior Full-Stack Engineer</b> with <b>extensive experience</b> specializing in cutting-edge 
+  <b>web development</b>, <b>AI</b>, and <b>blockchain</b> solutions. <br>
+  My expertise lies in crafting high-quality, responsive, and scalable web applications with a focus on 
+  brilliant <b>UX/UI</b> design and seamless <b>cloud computing</b> integration. <br>
+  Let's bring your project to life with innovative ideas and advanced technologies!
+</p>
+
 
 
 <!-- Bottom Wave Footer -->
