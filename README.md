@@ -10,12 +10,11 @@
 <div style="display: flex; align-items: center; justify-content: center; text-align: center;">
   <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="margin-right: 20px;">
   
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=1E90FF&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prince+Kitty;❤Senior+Blockchain+Developer❤;+Passionate+and+Reliable+Developer...">
-</p>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=1E90FF&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prince+Kitty;❤Senior+Blockchain+Developer❤;+Passionate+and+Reliable+Developer..." style="max-width: 600px;">
+  
   <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="margin-left: 20px;">
 </div>
+
 
 <!-- Intro Paragraph -->
 <p align="center" style="color:#ADD8E6; font-size:16px; line-height:1.6;">
