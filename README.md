@@ -26,5 +26,7 @@ I'm a <b>Computer Vision and Machine Learning Engineer</b> with strong expertise
 <h1 id="-languages-and-tools"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> Languages and Tools:</h1>
 
 <p align="left">
-<img width="600px"  src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,opencv,fastapi,flask,mysql,mongo,sqlite,html,css,js,react,cs,dotnet,cpp,matlab,md,git,vscode,docker,postman,linux,&perline=12"  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,html,css,tailwind,materialui,bootstrap,sass,jquery,threejs">
+  </a>
 </p>
