@@ -45,7 +45,7 @@ I'm a <b>Computer Vision and Machine Learning Engineer</b> with strong expertise
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaadAbdElGhaffar&theme=algolia" />
 </p>
 
-<h2 align="center"> 💼 Projects</h2>
+<h2 align="center"> 🔖 Repository Highlights</h2>
 
 <p align="center">
 
