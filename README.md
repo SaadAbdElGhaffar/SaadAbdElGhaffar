@@ -18,8 +18,7 @@ I'm a <b>Computer Vision and Machine Learning Engineer</b> with strong expertise
 <br>My passion lies in applying deep learning to solve real-world challenges, delivering <b>accurate</b>, <b>scalable</b>, and <b>impactful</b> computer vision applications.
 </p>
 
-<!-- Bottom Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -88,3 +87,6 @@ I'm a <b>Computer Vision and Machine Learning Engineer</b> with strong expertise
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="500"/>
 </p>
+
+<!-- Bottom Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
