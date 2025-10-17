@@ -31,3 +31,11 @@ I'm a <b>Computer Vision and Machine Learning Engineer</b> with strong expertise
   </a>
 </p>
 
+<div align=center> 
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaadAbdElGhaffar&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaadAbdElGhaffar&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaadAbdElGhaffar&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaadAbdElGhaffar&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaadAbdElGhaffar&theme=algolia">
+</div>
