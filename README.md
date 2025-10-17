@@ -43,3 +43,45 @@ I'm a <b>Computer Vision and Machine Learning Engineer</b> with strong expertise
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaadAbdElGhaffar&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaadAbdElGhaffar&theme=algolia">
 </div>
+
+## 🚀 Projects
+
+🔹 [**Tennis Match Analysis System**](https://github.com/SaadAbdElGhaffar/tennis-analysis-system)  
+*Python, PyTorch, OpenCV, YOLOv8*  
+> Built an advanced computer vision system for real-time tennis match analysis — detecting players, tracking ball trajectories, and generating match statistics and visualizations.
+
+🔹 [**Car Plate Recognition System**](https://github.com/SaadAbdElGhaffar/car-plate-recognition)  
+*Python, Flask, YOLOv11, PaddleOCR, MySQL*  
+> Developed a real-time license plate recognition system with web dashboard and persistent database storage.
+
+🔹 [**Brain Tumor Classification (99.7% Accuracy)**](https://github.com/SaadAbdElGhaffar/brain-tumor-classification-pytorch)  
+*Python, PyTorch, FastAPI, Streamlit, Docker*  
+> Achieved 99.7% accuracy using ResNet18; deployed via FastAPI and Streamlit with full MLOps pipeline.
+
+🔹 [**Cats vs Dogs Classifier (98.7% Accuracy)**](https://github.com/SaadAbdElGhaffar/cats-dogs-classifier-tensorflow)  
+*Python, TensorFlow, FastAPI, Streamlit, Docker*  
+> Built and deployed a deep CNN achieving 98.7% accuracy, with REST API and interactive web UI.
+
+🔹 [**Iranian Snack Detection System**](https://github.com/SaadAbdElGhaffar/ranian-snack-detection-yolo11)  
+*Python, OpenCV, YOLOv11, Segmentation Models*  
+> Designed an AI-powered system for real-time snack detection and metadata analysis for retail automation.
+
+🔹 [**Time Series Ice Cream Sales Forecasting**](https://github.com/SaadAbdElGhaffar/time-series-ice-cream-analysis)  
+*Python, ARIMA, XGBoost, LSTM, GRU*  
+> Forecasted monthly sales trends using hybrid statistical and deep learning models (Gold Medal, Kaggle).
+
+🔹 [**Hotel Reservation Cancellation Predictor**](https://github.com/SaadAbdElGhaffar/hotel-cancellation-predictor)  
+*Python, Scikit-learn, FastAPI, Streamlit, Docker*  
+> Predicted hotel booking cancellations (97.9% F1-score) using ensemble models and end-to-end deployment.
+
+🔹 [**Laptop Price Predictor**](https://github.com/SaadAbdElGhaffar/laptop-price-predictor)  
+*Python, Scikit-learn, Flask, Pandas*  
+> Predicted laptop prices with ensemble learning models achieving 91% R² and production-ready web app.
+
+🔹 [**Customer Segmentation (RFM + KMeans)**](https://github.com/SaadAbdElGhaffar/customer-segmentation-rfm-kmeans)  
+*Python, Scikit-learn, Pandas, Plotly Dash*  
+> Segmented customers based on behavior using RFM metrics and KMeans clustering for targeted marketing.
+
+🔹 [**Anime Face GAN Generator**](https://github.com/SaadAbdElGhaffar/anime-face-gan-generator)  
+*Python, TensorFlow, Streamlit, DCGAN/CGAN*  
+> Generated customizable anime faces using GANs with an interactive Streamlit web app.
