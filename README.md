@@ -49,45 +49,35 @@ I'm a <b>Computer Vision and Machine Learning Engineer</b> with strong expertise
 
 <p align="center">
 
-🔹 [**Tennis Match Analysis System**](https://github.com/SaadAbdElGhaffar/tennis-analysis-system)  
-<sub>*Python, PyTorch, OpenCV, YOLOv8*</sub>  
-> Built an advanced computer vision system for real-time tennis match analysis — detecting players, tracking ball trajectories, and generating match statistics and visualizations.  
-
-🔹 [**Car Plate Recognition System**](https://github.com/SaadAbdElGhaffar/car-plate-recognition)  
-<sub>*Python, Flask, YOLOv11, PaddleOCR, MySQL*</sub>  
-> Developed a real-time license plate recognition system with web dashboard and persistent database storage.  
-
-🔹 [**Brain Tumor Classification (99.7% Accuracy)**](https://github.com/SaadAbdElGhaffar/brain-tumor-classification-pytorch)  
-<sub>*Python, PyTorch, FastAPI, Streamlit, Docker*</sub>  
-> Achieved 99.7% accuracy using ResNet18; deployed via FastAPI and Streamlit with full MLOps pipeline.  
-
-🔹 [**Cats vs Dogs Classifier (98.7% Accuracy)**](https://github.com/SaadAbdElGhaffar/cats-dogs-classifier-tensorflow)  
-<sub>*Python, TensorFlow, FastAPI, Streamlit, Docker*</sub>  
-> Built and deployed a deep CNN achieving 98.7% accuracy, with REST API and interactive web UI.  
-
-🔹 [**Iranian Snack Detection System**](https://github.com/SaadAbdElGhaffar/ranian-snack-detection-yolo11)  
-<sub>*Python, OpenCV, YOLOv11, Segmentation Models*</sub>  
-> Designed an AI-powered system for real-time snack detection and metadata analysis for retail automation.
-
-🔹 [**Anime Face GAN Generator**](https://github.com/SaadAbdElGhaffar/anime-face-gan-generator)  
-<sub>*Python, TensorFlow, Streamlit, DCGAN/CGAN*</sub>  
-> Generated customizable anime faces using GANs with an interactive Streamlit web app.  
-
-🔹 [**Time Series Ice Cream Sales Forecasting**](https://github.com/SaadAbdElGhaffar/time-series-ice-cream-analysis)  
-<sub>*Python, ARIMA, XGBoost, LSTM, GRU*</sub>  
-> Forecasted monthly sales trends using hybrid statistical and deep learning models (Gold Medal, Kaggle).  
-
-🔹 [**Customer Segmentation (RFM + KMeans)**](https://github.com/SaadAbdElGhaffar/customer-segmentation-rfm-kmeans)  
-<sub>*Python, Scikit-learn, Pandas, Plotly Dash*</sub>  
-> Segmented customers based on behavior using RFM metrics and KMeans clustering for targeted marketing.  
-
-🔹 [**Hotel Reservation Cancellation Predictor**](https://github.com/SaadAbdElGhaffar/hotel-cancellation-predictor)  
-<sub>*Python, Scikit-learn, FastAPI, Streamlit, Docker*</sub>  
-> Predicted hotel booking cancellations (97.9% F1-score) using ensemble models and end-to-end deployment.  
-
-🔹 [**Laptop Price Predictor**](https://github.com/SaadAbdElGhaffar/laptop-price-predictor)  
-<sub>*Python, Scikit-learn, Flask, Pandas*</sub>  
-> Predicted laptop prices with ensemble learning models achieving 91% R² and production-ready web app.  
-
+  <a href="https://github.com/SaadAbdElGhaffar/tennis-analysis-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAbdElGhaffar&repo=tennis-analysis-system&theme=radical" alt="Tennis Match Analysis System" />
+  </a>
+  <a href="https://github.com/SaadAbdElGhaffar/car-plate-recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAbdElGhaffar&repo=car-plate-recognition&theme=radical" alt="Car Plate Recognition System" />
+  </a>
+  <a href="https://github.com/SaadAbdElGhaffar/brain-tumor-classification-pytorch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAbdElGhaffar&repo=brain-tumor-classification-pytorch&theme=radical" alt="Brain Tumor Classification" />
+  </a>
+  <a href="https://github.com/SaadAbdElGhaffar/cats-dogs-classifier-tensorflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAbdElGhaffar&repo=cats-dogs-classifier-tensorflow&theme=radical" alt="Cats vs Dogs Classifier" />
+  </a>
+  <a href="https://github.com/SaadAbdElGhaffar/ranian-snack-detection-yolo11">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAbdElGhaffar&repo=ranian-snack-detection-yolo11&theme=radical" alt="Iranian Snack Detection System" />
+  </a>
+  <a href="https://github.com/SaadAbdElGhaffar/anime-face-gan-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAbdElGhaffar&repo=anime-face-gan-generator&theme=radical" alt="Anime Face GAN Generator" />
+  </a>
+  <a href="https://github.com/SaadAbdElGhaffar/time-series-ice-cream-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAbdElGhaffar&repo=time-series-ice-cream-analysis&theme=radical" alt="Time Series Ice Cream Sales Forecasting" />
+  </a>
+  <a href="https://github.com/SaadAbdElGhaffar/customer-segmentation-rfm-kmeans">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAbdElGhaffar&repo=customer-segmentation-rfm-kmeans&theme=radical" alt="Customer Segmentation (RFM + KMeans)" />
+  </a>
+  <a href="https://github.com/SaadAbdElGhaffar/hotel-cancellation-predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAbdElGhaffar&repo=hotel-cancellation-predictor&theme=radical" alt="Hotel Reservation Cancellation Predictor" />
+  </a>
+  <a href="https://github.com/SaadAbdElGhaffar/laptop-price-predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAbdElGhaffar&repo=laptop-price-predictor&theme=radical" alt="Laptop Price Predictor" />
+  </a>
 
 </p>
