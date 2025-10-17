@@ -101,7 +101,7 @@ I'm a <b>Computer Vision and Machine Learning Engineer</b> with strong expertise
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=400&color=1E90FF&width=250&lines=%E2%AC%86+Connect+Here!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=400&color=1E90FF&width=250&lines=%E2%AC%86+Click+Here!" />
 </p>
 <!-- Bottom Wave Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
