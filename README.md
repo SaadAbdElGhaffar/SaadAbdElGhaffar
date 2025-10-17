@@ -45,7 +45,7 @@ I'm a <b>Computer Vision and Machine Learning Engineer</b> with strong expertise
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaadAbdElGhaffar&theme=algolia" />
 </p>
 
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center"> 💼 Projects</h2>
 
 <p align="center">
 
@@ -67,11 +67,19 @@ I'm a <b>Computer Vision and Machine Learning Engineer</b> with strong expertise
 
 🔹 [**Iranian Snack Detection System**](https://github.com/SaadAbdElGhaffar/ranian-snack-detection-yolo11)  
 <sub>*Python, OpenCV, YOLOv11, Segmentation Models*</sub>  
-> Designed an AI-powered system for real-time snack detection and metadata analysis for retail automation.  
+> Designed an AI-powered system for real-time snack detection and metadata analysis for retail automation.
+
+🔹 [**Anime Face GAN Generator**](https://github.com/SaadAbdElGhaffar/anime-face-gan-generator)  
+<sub>*Python, TensorFlow, Streamlit, DCGAN/CGAN*</sub>  
+> Generated customizable anime faces using GANs with an interactive Streamlit web app.  
 
 🔹 [**Time Series Ice Cream Sales Forecasting**](https://github.com/SaadAbdElGhaffar/time-series-ice-cream-analysis)  
 <sub>*Python, ARIMA, XGBoost, LSTM, GRU*</sub>  
 > Forecasted monthly sales trends using hybrid statistical and deep learning models (Gold Medal, Kaggle).  
+
+🔹 [**Customer Segmentation (RFM + KMeans)**](https://github.com/SaadAbdElGhaffar/customer-segmentation-rfm-kmeans)  
+<sub>*Python, Scikit-learn, Pandas, Plotly Dash*</sub>  
+> Segmented customers based on behavior using RFM metrics and KMeans clustering for targeted marketing.  
 
 🔹 [**Hotel Reservation Cancellation Predictor**](https://github.com/SaadAbdElGhaffar/hotel-cancellation-predictor)  
 <sub>*Python, Scikit-learn, FastAPI, Streamlit, Docker*</sub>  
@@ -81,12 +89,5 @@ I'm a <b>Computer Vision and Machine Learning Engineer</b> with strong expertise
 <sub>*Python, Scikit-learn, Flask, Pandas*</sub>  
 > Predicted laptop prices with ensemble learning models achieving 91% R² and production-ready web app.  
 
-🔹 [**Customer Segmentation (RFM + KMeans)**](https://github.com/SaadAbdElGhaffar/customer-segmentation-rfm-kmeans)  
-<sub>*Python, Scikit-learn, Pandas, Plotly Dash*</sub>  
-> Segmented customers based on behavior using RFM metrics and KMeans clustering for targeted marketing.  
-
-🔹 [**Anime Face GAN Generator**](https://github.com/SaadAbdElGhaffar/anime-face-gan-generator)  
-<sub>*Python, TensorFlow, Streamlit, DCGAN/CGAN*</sub>  
-> Generated customizable anime faces using GANs with an interactive Streamlit web app.  
 
 </p>
