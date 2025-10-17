@@ -88,5 +88,20 @@ I'm a <b>Computer Vision and Machine Learning Engineer</b> with strong expertise
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="500"/>
 </p>
 
+<!-- Connect With Me -->
+<h2 align="center">🌐 Connect With Me</h2>
+<p align="center">
+  <a href="mailto:saad.abdelghaffar.ai@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=292D3E" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/saadabdelghaffar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=292D3E" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=400&color=1E90FF&width=250&lines=%E2%AC%86+Connect+Here!" />
+</p>
 <!-- Bottom Wave Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
